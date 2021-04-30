@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Hi, i'm @amirzaid
+- I'm a Full Stack web developer with Front End orientation
+- My prefered stack is React + Node
